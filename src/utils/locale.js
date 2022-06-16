@@ -63,6 +63,7 @@ export default {
     redo: '恢复', // 恢复
     previewClose: '关闭预览', // 关闭预览
     codeTheme: '代码主题', // 代码主题
+    theme: '主题', // 主题
     switchModel: '模式切换', // 模式切换
     switchPreview: '预览', // 预览
     switchEdit: '返回编辑', // 返回编辑

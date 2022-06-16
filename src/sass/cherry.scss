@@ -51,6 +51,10 @@
   background: $editorBg;
   box-shadow: $shadow;
 
+  &[data-theme="monokai"] {
+    @import 'themes/monokai';
+  }
+
   .ch-icon {
     vertical-align: middle;
   }

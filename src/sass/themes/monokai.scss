@@ -1,0 +1,19 @@
+.cherry-toolbar, .cherry-dropdown {
+  background-color: #272822;
+  .cherry-toolbar-button, .cherry-dropdown-item {
+    color: #F8F8F2;
+  }
+}
+
+.cherry-previewer, .cherry-editor {
+  background-color: #F8F8F2;
+  
+  & .CodeMirror {
+    background-color: #F8F8F2;
+  }
+
+  code {
+    color: #F8F8F2;
+    background-color: #272822;
+  }
+}

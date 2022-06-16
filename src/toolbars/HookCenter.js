@@ -40,6 +40,7 @@ import Undo from './hooks/Undo';
 import Redo from './hooks/Redo';
 import Code from './hooks/Code';
 import CodeTheme from './hooks/CodeTheme';
+import Theme from './hooks/Theme';
 import Export from './hooks/Export';
 import Settings from './hooks/Settings';
 import Underline from './hooks/Underline';
@@ -73,6 +74,7 @@ const HookList = {
   togglePreview: TogglePreview,
   code: Code,
   codeTheme: CodeTheme,
+  theme: Theme,
   export: Export,
   settings: Settings,
   fullScreen: FullScreen,

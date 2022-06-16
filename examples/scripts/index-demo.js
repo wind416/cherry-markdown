@@ -85,6 +85,7 @@ var basicConfig = {
       'togglePreview',
       'settings',
       'switchModel',
+      'theme',
       'codeTheme',
       'export',
     ],
